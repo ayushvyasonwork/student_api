@@ -1,0 +1,6 @@
+env:"dev"
+// Database configuration
+storage_path:"storage/storage.db"
+
+http_server:
+  address: "localhost:8082" // any port that is free on your machine
